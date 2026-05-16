@@ -1,0 +1,43 @@
+{
+  "name": "Stadium World Map",
+  "slug": "stadiumworldmap",
+  "emoji": "🏟️",
+  "domain": "stadiumworldmap.vercel.app",
+  "colors": {
+    "primary": "#14213d",
+    "accent": "#2e9e5b"
+  },
+  "osm": {
+    "key": "leisure",
+    "value": "stadium"
+  },
+  "osmFilters": [
+    {
+      "key": "leisure",
+      "value": "stadium"
+    }
+  ],
+  "includeRelations": false,
+  "dedupeMeters": 0,
+  "mappedNoun": "stadiums",
+  "unnamedLabel": "Unnamed stadium",
+  "metaFields": [
+    {
+      "key": "sport",
+      "label": "Sport"
+    }
+  ],
+  "locales": [
+    "en"
+  ],
+  "defaultLocale": "en",
+  "namedOnly": false,
+  "includeFilter": null,
+  "dataSource": {
+    "type": "overpass"
+  },
+  "googlePlaces": {
+    "enabled": false,
+    "cap": 800
+  }
+}
