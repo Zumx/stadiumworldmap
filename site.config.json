@@ -21,12 +21,14 @@
   "dedupeMeters": 0,
   "mappedNoun": "stadiums",
   "unnamedLabel": "Unnamed stadium",
+  "affiliateUrl": "https://www.getyourguide.com/s/?q={q}",
   "metaFields": [
     {
       "key": "sport",
       "label": "Sport"
     }
   ],
+  "aboutText": null,
   "locales": [
     "en"
   ],
